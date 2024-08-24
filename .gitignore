@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+venv_global/
+
+# Ignore compiled files
+*.pyc
+__pycache__/
+
+# Ignore backup files
+backupWeeeFly-Llama/
+
+# Ignore other unwanted files
+*.log
+*.tmp

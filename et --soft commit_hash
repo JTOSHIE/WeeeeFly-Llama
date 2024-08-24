@@ -1,0 +1,99 @@
+[33mcommit ae04c748239f736ff59e98585e1ac78dacae81a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 17:07:25 2024 +1000
+
+    Add .gitignore to exclude virtual environment and large files
+
+[33mcommit 510e5a5d4a469adbe4623d480e8127c8b06948ba[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 17:02:43 2024 +1000
+
+    Add .gitignore to exclude virtual environment and large files
+
+[33mcommit f332b89f74cf6cc066430b842c6603aa404097ca[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 16:41:14 2024 +1000
+
+    Add large files to Git LFS
+
+[33mcommit 56f8c9e8a1fe66a975e6af8aabc520db5d5c62cd[m
+Merge: bfe37629 ca624e78
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 16:21:18 2024 +1000
+
+    Merge branch 'main' of https://huggingface.co/spaces/JTOSHIE/WeeeFly-Llama
+
+[33mcommit ca624e78cddd05c206a201ac1ab727da0065b309[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joshua Thompson <JTOSHIE@users.noreply.huggingface.co>
+Date:   Fri Aug 23 05:37:07 2024 +0000
+
+    Update app.py
+
+[33mcommit 81c48e15d93e0e54285f00801fdbc36cf5687e2d[m
+Author: Joshua Thompson <JTOSHIE@users.noreply.huggingface.co>
+Date:   Fri Aug 23 05:29:25 2024 +0000
+
+    Update requirements.txt
+
+[33mcommit bfe3762965b44a2ccd5c702bdf97c1c82bbbc4da[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 15:07:40 2024 +1000
+
+    Added .gitignore file
+
+[33mcommit 1b685ae41355b569d07fa0ef99e20e22cb1fac6a[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 15:07:27 2024 +1000
+
+    Updated requirements.txt
+
+[33mcommit 22f5033298da9e0090f2c822b5ff153916455ee8[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 14:01:42 2024 +1000
+
+    Removed venv folder from version control
+
+[33mcommit 0c7e47d835d8f002b4293ae8580655ed2885a20b[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 11:57:42 2024 +1000
+
+    Added app.py with Hugging Face API integration
+
+[33mcommit e8e0bdde26397bb35f31f80c3d12c23f9cf1d93a[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Fri Aug 23 11:38:17 2024 +1000
+
+    Updated requirements.txt with necessary dependencies
+
+[33mcommit 6c94a51c6c0f998a11cbd38113305409dccfbab7[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Thu Aug 22 16:34:28 2024 +1000
+
+    Committing all changes before troubleshooting
+
+[33mcommit 6f80e79a165f54f495c4807da400093b79874fc3[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Thu Aug 22 15:40:25 2024 +1000
+
+    Updated requirements.txt to include transformers library
+
+[33mcommit eb364c17e2d1d90b90fbcc58647c56ca337686c7[m
+Author: JTOSHIE <jtoshie@gmail.com>
+Date:   Sat Aug 10 05:44:29 2024 +1000
+
+    Initial setup and environment configuration
+
+[33mcommit 3429f19ddc7c8b243bad93890c97e6cab5baa0f7[m
+Author: Joshua Thompson <JTOSHIE@users.noreply.huggingface.co>
+Date:   Fri Aug 9 18:37:09 2024 +0000
+
+    initial commit
+
+[33mcommit 33d48a45af0d0355237ac5a25df6fd4f62b56d11[m
+Author: Joshua Thompson <JTOSHIE@users.noreply.huggingface.co>
+Date:   Fri Aug 9 18:37:09 2024 +0000
+
+    Duplicate from gradio-templates/chatbot
+    
+    
+    Co-authored-by: Pete <pngwn@users.noreply.huggingface.co>
